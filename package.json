@@ -1,0 +1,23 @@
+{
+  "name": "ukiloi-kint",
+  "version": "1.0.0",
+  "description": "ukiloi-kint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raffny/ukiloi-kint.git"
+  },
+  "dependencies": {
+    "ubiquitouwin": "1.0.0",
+    "filipot": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffny/ukiloi-kint/issues"
+  },
+  "homepage": "https://github.com/raffny/ukiloi-kint#readme"
+}
